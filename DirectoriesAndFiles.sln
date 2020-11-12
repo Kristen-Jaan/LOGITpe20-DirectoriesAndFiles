@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoriesAndFiles", "DirectoriesAndFiles\DirectoriesAndFiles.csproj", "{78992FA3-FBBF-4049-B090-AEFA94D1C91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteFilesAndDirectories", "WriteFilesAndDirectories\WriteFilesAndDirectories.csproj", "{861B9498-CDDD-443B-8B03-A48EC6F8C9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78992FA3-FBBF-4049-B090-AEFA94D1C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78992FA3-FBBF-4049-B090-AEFA94D1C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78992FA3-FBBF-4049-B090-AEFA94D1C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78992FA3-FBBF-4049-B090-AEFA94D1C91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861B9498-CDDD-443B-8B03-A48EC6F8C9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861B9498-CDDD-443B-8B03-A48EC6F8C9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861B9498-CDDD-443B-8B03-A48EC6F8C9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861B9498-CDDD-443B-8B03-A48EC6F8C9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD346508-2FC5-4C6F-B848-84C1855D5712}
+	EndGlobalSection
+EndGlobal
